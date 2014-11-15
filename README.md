@@ -1,3 +1,7 @@
+# Commit with Git
+
+A skillshare for learning the essentials of working with git and Github.
+
 # Working solo
 
 ## Making a new repository
@@ -25,7 +29,11 @@ git checkout HEAD $file
 
 ## Branching
 
+git branch $branchname
+
 ## Cloning a repository
+
+git clone $file
 
 # Working with others
 
