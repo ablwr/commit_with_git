@@ -48,6 +48,8 @@ git remote add origin $address
 [Github Official Help](https://help.github.com/)
  
 [A practical git introduction](http://mrchlblng.me/2014/09/practical-git-introduction/)
+
+[Basic Git Commands](https://github.com/quinnliu/gitCommands)
  
 [Non-technical Person’s Guide to Becoming an Open Source Software Contributor via Github](http://ablwr.github.io/blog/2014/11/03/non-technical-persons-guide-to-becoming-an-open-source-software-contributor-via-github/)
  
