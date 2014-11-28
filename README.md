@@ -2,6 +2,8 @@
 
 A skillshare for learning the essentials of working with git and Github.
 
+Video: [https://vimeo.com/113052482](https://vimeo.com/113052482)
+
 # Working solo
 
 ## Making a new repository
